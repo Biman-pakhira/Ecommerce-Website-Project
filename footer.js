@@ -2,7 +2,7 @@ const footerHTML = `
   <footer class="section-footer">
     <div class="footer-container container">
       <div class="content_1">
-        <img src="./images/logo.png" alt="logo" />
+        <img src="public/images/logo.png" alt="logo" />
         <p>
           Welcome to G EcomStore, <br />
           your ultimate destination for
