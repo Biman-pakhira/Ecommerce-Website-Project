@@ -18,6 +18,16 @@ Welcome to our eCommerce Website Project! This project aims to develop a cutting
 - View and manage cart
 - Checkout process
 - Responsive design for mobile and desktop browsers
+  
+## Sample View
+<img src="View1.png" alt="view sample">
+<img src="view2.png" alt="view sample">
+<img src="view3.png" alt="view sample">
+<img src="view4.png" alt="view sample">
+<img src="view5.png" alt="view sample">
+<img src="view6.png" alt="view sample">
+<img src="view7.png" alt="view sample">
+<img src="view8.png" alt="view sample">
 
 ## Getting Started
 
