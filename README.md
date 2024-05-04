@@ -35,10 +35,12 @@ To get a local copy of this project up and running on your machine, follow these
    git clone https://biman-pakhira.github.io/eCommerce-Website-Project/
    ```
 2. **Change the Directory**
-  ```bash
+
+   ```bash
     cd your Directory
-  ```
+   ```
 3. **Run this Project**
-  ```bash
+
+   ```bash
     npm run dev
-  ```
+   ```
